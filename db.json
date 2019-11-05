@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "userName": "garnnet",
+      "password": "gumbo",
+    "email": "steve@codingthesmartway.com"
+    
+    },
+    {
+      "id": 2,
+      "userName": "Steve",
+      "password": "Palmer",
+          "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "userName": "Steve",
+      "password": "Palmer",
+    "email": "steve@codingthesmartway.com"
+      
+    },
+    {
+      "id": 4,
+      "userName": "Ann",
+      "password": "Smith",
+    "email": "steve@codingthesmartway.com"
+    
+    },
+  ]
+}
